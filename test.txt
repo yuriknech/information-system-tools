@@ -1,1 +1,0 @@
-https://techrocks.ru/2021/09/04/removing-local-or-remote-branch-in-git/ - инструкция по удалению веток
